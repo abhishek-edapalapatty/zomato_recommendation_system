@@ -5,6 +5,5 @@ __pycache__/
 kaggle.json
 .env
 zomatoenv/
-data/zomato.csv
 models/*.joblib
 .vscode/
