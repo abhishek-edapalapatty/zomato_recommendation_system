@@ -1,0 +1,12 @@
+{
+  "source_rows": 51717,
+  "restaurants": 8739,
+  "restaurants_with_reviews": 8334,
+  "ratings_available": 6618,
+  "vocabulary_size": 60000,
+  "matrix_shape": [
+    8739,
+    60000
+  ],
+  "method": "TF-IDF unigrams+bigrams, cosine similarity; top results sorted by rating"
+}

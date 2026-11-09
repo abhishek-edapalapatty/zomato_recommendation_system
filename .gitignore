@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+*.py[cod]
+*.joblib
+kaggle.json
+.env
+zomatoenv/
+data/zomato.csv
+models/*.joblib
+.vscode/
